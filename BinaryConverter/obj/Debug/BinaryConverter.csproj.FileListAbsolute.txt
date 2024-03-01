@@ -1,0 +1,7 @@
+C:\Users\Anabu\Documents\SharpDevelop Projects\BinaryConverter\BinaryConverter\bin\Debug\BinaryConverter.exe
+C:\Users\Anabu\Documents\SharpDevelop Projects\BinaryConverter\BinaryConverter\bin\Debug\BinaryConverter.pdb
+C:\Users\Anabu\Documents\SharpDevelop Projects\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.csprojResolveAssemblyReference.cache
+C:\Users\Anabu\Documents\SharpDevelop Projects\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.MainForm.resources
+C:\Users\Anabu\Documents\SharpDevelop Projects\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.csproj.GenerateResource.Cache
+C:\Users\Anabu\Documents\SharpDevelop Projects\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.exe
+C:\Users\Anabu\Documents\SharpDevelop Projects\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.pdb
